@@ -3,8 +3,8 @@
 ## Table of Contents:
 1. [Install Django and DRF](#install-django-and-drf)
 2. [Create Django Project and App](#create-django-project-and-app)
-3. [Create Django Model](create-django-model)
-4. [Create DRF Serializer](create-drf-serializer)
+3. [Create Django Model](#create-django-model)
+4. [Create DRF Serializer](#create-drf-serializer)
 5. [Setup View and URL](#setup-view-and-url)
 
 ## Install Django and DRF
@@ -49,7 +49,7 @@ restapi
 |  |-- wsgi.py
 |-- manage.py
 ```
-Now, move into restapi folder and create 'tutorials' app using the beloe mentioned commands.
+Now, move into restapi folder and create 'tutorials' app using the below mentioned commands.
 
 ```
 (drf) $ cd restapi
